@@ -1,0 +1,53 @@
+body {
+	background-color: gray;
+	font-size: 18px;
+	font-family: Arial;
+	padding: 10px;
+	border: 3px solid;
+	border-color: white;
+	margin-top: 20px;
+}
+
+p {
+	background-color: blue;
+}
+
+#navbar ul{
+	padding: 0;
+	list-style: none;
+}
+
+#navbar li{
+	display: inline;	
+}
+
+#navbar a{
+	color: #fff;
+	text-decoration: none;
+	font-size: 18px;
+	padding-right: 15px;
+}
+
+#navbar {
+	background-color: #333;
+	color: #fff;
+}
+
+.bluep {
+	background-color: powderblue;
+}
+
+.container {
+	width: 80%;
+	margin: auto;
+	overflow: hidden;
+}
+
+#shinyh1 {
+	background-color: silver;
+	text-align: center;
+}
+
+a:hover {
+	color: #000000; /*this means colour*/
+}
